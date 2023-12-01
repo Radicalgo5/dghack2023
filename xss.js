@@ -1,1 +1,1 @@
-window.open("test.com");
+window.open("https://www.w3schools.com"); 
