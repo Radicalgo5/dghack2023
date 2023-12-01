@@ -1,1 +1,1 @@
-alert("1");
+window.open("test.com");
